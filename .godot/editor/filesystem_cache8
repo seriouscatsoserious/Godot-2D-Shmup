@@ -1,7 +1,9 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1699810386
+::res://::1699826807
 icon.svg::CompressedTexture2D::2732737055681906902::1699810091::1699810110::1::::<><>::
-::res://assets/::1699810386
+main.tscn::PackedScene::149862535105933212::1699826798::0::1::::<><>::uid://bcjglpobeujde::::res://assets/back.png<>res://Player.gd<>uid://cusnbv430aomn::::res://assets/PNG/Enemies/enemyRed3.png
+Player.gd::GDScript::-1::1699826702::0::1::::<>Node2D<>::
+::res://assets/::1699810387
 back.png::CompressedTexture2D::2545762525974347790::1699810386::1699810387::1::::<><>::
 license.txt::TextFile::-1::1699810386::0::1::::<><>::
 preview.png::CompressedTexture2D::4112297275056387196::1699810386::1699810387::1::::<><>::
@@ -324,7 +326,7 @@ playerLife3_blue.png::CompressedTexture2D::8638994254075559647::1699810386::1699
 playerLife3_green.png::CompressedTexture2D::62695950813620309::1699810386::1699810386::1::::<><>::
 playerLife3_orange.png::CompressedTexture2D::1085330320598016259::1699810386::1699810386::1::::<><>::
 playerLife3_red.png::CompressedTexture2D::1477332972346936330::1699810386::1699810386::1::::<><>::
-::res://assets/Spritesheet/::1699810386
+::res://assets/Spritesheet/::1699810387
 sheet.png::CompressedTexture2D::7061790998400570809::1699810386::1699810387::1::::<><>::
-::res://assets/Vector/::1699810386
+::res://assets/Vector/::1699810387
 sheet.svg::CompressedTexture2D::4043259133132168091::1699810386::1699810387::1::::<><>::
